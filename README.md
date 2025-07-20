@@ -1,8 +1,7 @@
 <div align="center">
   
 # 👋 Hello, I'm 한승헌 (Jaylen Han)!
-
-### 🚀 AI Engineer & Data Specialist
+ngineer & Data Specialist
 
 </div>
 
@@ -30,23 +29,6 @@ I will continue to do my best to become an engineer who **leads trends** in the 
 
 ## 🛠️ Tech Stack
 
-### 💻 **Frontend Development**
-<div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-</div>
-
-### ⚙️ **Backend Development**
-<div>
-<img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/uWSGI-6E3C93.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</div>
-
 ### 🤖 **AI & Data Engineering**
 <div>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -57,21 +39,22 @@ I will continue to do my best to become an engineer who **leads trends** in the 
 <img src="https://img.shields.io/badge/Groq-000000.svg?style=for-the-badge&logoColor=white"/>
 </div>
 
-### 💾 **Database & Infrastructure**
+### 💻 **Software Development**
 <div>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/DBeaver-372923.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_SQL-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP_VM-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCS-4285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white">
 </div>
 
-### 🔧 **Development Tools**
+### 🤝 **Cooperation**
 <div>
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Meet-00897B?style=for-the-badge&logo=googlemeet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
 ---
@@ -97,16 +80,6 @@ I will continue to do my best to become an engineer who **leads trends** in the 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaylenHan)
 
 **"My goal is to make the world a better place through AI."**
-
-</div>
-
----
-
-<div align="center">
-  
-*⚡ Fun fact: I'm exploring various fields from gaming to security with AI technology!*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=JaylenHan&color=brightgreen&style=for-the-badge)
 
 </div>
 <!--

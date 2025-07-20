@@ -59,18 +59,6 @@ I will continue to do my best to become an engineer who **leads trends** in the 
 
 ---
 
-## � GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaylenHan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaylenHan&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 <div align="center">
